@@ -71,6 +71,7 @@
 * Logical fallacy https://www.grammarly.com/blog/appeal-to-hypocrisy/
 * Logos https://www.grammarly.com/blog/logos/
 * Malapropism https://www.grammarly.com/blog/what-is-a-malapropism/
+* Metaphor https://www.grammarly.com/blog/metaphor/
 * Moot point https://www.grammarly.com/blog/moot-point/
 * Motif https://www.grammarly.com/blog/motif/
 * Non sequitur https://www.grammarly.com/blog/non-sequitur/
@@ -89,6 +90,7 @@
 * Wordplay https://www.grammarly.com/blog/wordplay/
 * https://www.grammarly.com/blog/literary-devices/
 * https://www.grammarly.com/blog/figure-of-speech/
+* https://www.grammarly.com/blog/beautiful-literary-terms/
 
 ## Flow
 
@@ -98,6 +100,7 @@
 * https://www.grammarly.com/blog/sentence-structure/
 * https://www.grammarly.com/blog/transition-words-phrases/
 * https://www.grammarly.com/blog/types-of-sentences/
+* https://www.grammarly.com/blog/organization-tips-for-writers/
 
 ## Focus
 
@@ -146,7 +149,7 @@
 
 ## Structure
 
-## Style (formal, informal)
+## Style (formal, informal, casual, quirky)
 
 * https://www.grammarly.com/blog/writing-style/
 * https://www.grammarly.com/blog/bland-writing/
