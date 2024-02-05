@@ -2,14 +2,14 @@
 
 ## Audience
 
-## Clarity
+## Clarity (clear, logical, ambiguous, unfocused)
 
 * https://www.grammarly.com/blog/5-ways-to-make-sure-your-email-writing-is-clear/
 * https://www.grammarly.com/blog/clean-up-your-writing/
 * https://www.grammarly.com/blog/proofreading-tips-and-tools/
 * https://www.grammarly.com/blog/clarity-in-writing/
 
-## Conciseness
+## Conciseness (succinct, direct, wordy)
 
 * https://www.grammarly.com/blog/what-is-concise-writing/
 * https://www.grammarly.com/blog/concise-but-kind-writing/
@@ -19,7 +19,7 @@
 
 * https://www.grammarly.com/blog/how-to-write-better-content/
 
-## Diction
+## Diction (formal, informal, repetative)
 
 * https://www.grammarly.com/blog/word-choice/
 * https://www.grammarly.com/blog/transition-words-phrases/
@@ -40,7 +40,9 @@
 
 * https://www.grammarly.com/blog/discourse/
 
-## Emotion
+## Emotion (positive, negative)
+
+## Expertise (Knowledge) (expert, experienced, novice)
 
 ## Figures of Speech
 
@@ -92,7 +94,7 @@
 * https://www.grammarly.com/blog/figure-of-speech/
 * https://www.grammarly.com/blog/beautiful-literary-terms/
 
-## Flow
+## Flow (smooth, cohesive, logical, unstructured, choppy)
 
 * https://www.grammarly.com/blog/sentences-logical-order/
 * https://www.grammarly.com/blog/focus-in-writing/
@@ -137,7 +139,7 @@
 
 * https://www.grammarly.com/blog/point-of-view/
 
-## Purpose (description, narration, explanation, persuasion)
+## Purpose (description, narration, explanation, persuasion, informing, entertaining)
 
 * https://www.grammarly.com/blog/discourse/
 
